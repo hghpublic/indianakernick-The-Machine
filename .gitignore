@@ -1,3 +1,10 @@
 cmake-build-debug/**
 cmake-build-release/**
 .idea/**
+
+
+# macos
+.DS_Store
+
+# cmake
+/build/
