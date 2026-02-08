@@ -25,7 +25,7 @@ void pressurePlateSystem(entt::registry &registry, const EntityGrid &grid) {
       continue;
     }
     
-    if (!registry.has<Weight>(targetID)) {
+    if (!registry.all_of<Weight>(targetID)) {
       power.curr = false;
       continue;
     }

@@ -18,7 +18,7 @@ void spritePositionSystem(entt::registry &registry, const Frame frame) {
   for (const entt::entity entity : view) {
     glm::vec2 pos = view.get<Position>(entity).pos;
     
-    if (registry.has<Movement>(entity)) {
+    if (registry.all_of<Movement>(entity)) {
       const Grid::Dir realDir = registry.get<Movement>(entity).realDir;
       const float progress = static_cast<float>(frame) / FRAMES_PER_TICK;
       pos += toFloatVec(realDir) * progress;

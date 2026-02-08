@@ -99,7 +99,7 @@ void moveDirSystem(entt::registry &registry, const EntityGrid &grid) {
       if (entity == entt::null) {
         continue;
       }
-      const Movement movement = movementView.get(entity);
+      const Movement movement = std::get<0>(movementView.get(entity));
       if (movement.desiredDir == Grid::Dir::none) {
         continue;
       }

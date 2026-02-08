@@ -40,6 +40,7 @@ namespace {
           throw std::runtime_error("IDENTITY function expects single input");
         }
     }
+    return false;
   }
 }
 

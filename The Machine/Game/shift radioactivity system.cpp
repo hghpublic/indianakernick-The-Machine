@@ -13,7 +13,7 @@
 void shiftRadioactivitySystem(entt::registry &registry) {
   auto view = registry.view<Radioactivity>();
   for (const entt::entity entity : view) {
-    Radioactivity &radioactivity = view.get(entity);
+    Radioactivity &radioactivity = std::get<0>(view.get(entity));
     radioactivity.prev = radioactivity.curr;
   }
 }

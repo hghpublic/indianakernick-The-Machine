@@ -34,7 +34,7 @@ namespace {
       return;
     }
     
-    if (registry.has<Wire>(entity)) {
+    if (registry.all_of<Wire>(entity)) {
       const Wire wire = registry.get<Wire>(entity);
       if (!Grid::test(wire.sides, Grid::opposite(fromPrev))) {
         return;
@@ -51,7 +51,7 @@ namespace {
           propagatePower(registry, grid, pos + toVec(dir), dir);
         }
       }
-    } else if (registry.has<CrossWire>(entity)) {
+    } else if (registry.all_of<CrossWire>(entity)) {
       CrossWire &cross = registry.get<CrossWire>(entity);
       if (Grid::isVert(fromPrev)) {
         if (cross.vert.curr) {

@@ -20,7 +20,7 @@ namespace {
 void shiftCrossWireSystem(entt::registry &registry) {
   auto view = registry.view<CrossWire>();
   for (const entt::entity entity : view) {
-    CrossWire &cross = view.get(entity);
+    CrossWire &cross = std::get<0>(view.get(entity));
     shift(cross.vert);
     shift(cross.hori);
   }

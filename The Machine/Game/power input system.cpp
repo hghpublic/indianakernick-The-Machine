@@ -42,7 +42,7 @@ void powerInputSystem(entt::registry &registry, const EntityGrid &grid) {
         continue;
       }
       
-      if (registry.has<PowerOutput>(targetID)) {
+      if (registry.all_of<PowerOutput>(targetID)) {
         // the target entity must have an output in the opposite direction
         const Grid::DirBits outputSides = registry.get<PowerOutput>(targetID).sides;
         if (!Grid::test(outputSides, Grid::opposite(dir))) {
@@ -50,13 +50,13 @@ void powerInputSystem(entt::registry &registry, const EntityGrid &grid) {
         }
         
         // the target entity must have a power component
-        if (!registry.has<Power>(targetID)) {
+        if (!registry.all_of<Power>(targetID)) {
           continue;
         }
         
         const bool power = registry.get<Power>(targetID).prev;
         input.states = Grid::change(input.states, dir, power);
-      } else if (registry.has<Wire>(targetID)) {
+      } else if (registry.all_of<Wire>(targetID)) {
         // the target entity must have a connection in the opposite direction
         const Grid::DirBits wireSides = registry.get<Wire>(targetID).sides;
         if (!Grid::test(wireSides, Grid::opposite(dir))) {
@@ -64,13 +64,13 @@ void powerInputSystem(entt::registry &registry, const EntityGrid &grid) {
         }
         
         // the target entity must have a power component
-        if (!registry.has<Power>(targetID)) {
+        if (!registry.all_of<Power>(targetID)) {
           continue;
         }
         
         const bool power = registry.get<Power>(targetID).prev;
         input.states = Grid::change(input.states, dir, power);
-      } else if (registry.has<CrossWire>(targetID)) {
+      } else if (registry.all_of<CrossWire>(targetID)) {
         const CrossWire cross = registry.get<CrossWire>(targetID);
         const bool power = (Grid::isVert(dir) ? cross.vert : cross.hori).prev;
         input.states = Grid::change(input.states, dir, power);

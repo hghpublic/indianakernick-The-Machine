@@ -36,7 +36,7 @@ void radioactiveToggleSystem(entt::registry &registry, const EntityGrid &grid) {
       continue;
     }
     
-    if (!registry.has<Radioactivity>(targetID)) {
+    if (!registry.all_of<Radioactivity>(targetID)) {
       continue;
     }
     

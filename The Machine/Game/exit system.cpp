@@ -22,7 +22,7 @@ bool exitSystem(entt::registry &registry, const EntityGrid &grid) {
       continue;
     }
     
-    if (registry.has<PlayerAction>(playerID)) {
+    if (registry.all_of<PlayerAction>(playerID)) {
       return true;
     }
   }

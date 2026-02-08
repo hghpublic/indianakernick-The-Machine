@@ -30,7 +30,7 @@ void radioactivityDetectorSystem(entt::registry &registry, const EntityGrid &gri
       continue;
     }
     
-    if (!registry.has<Radioactivity>(targetID)) {
+    if (!registry.all_of<Radioactivity>(targetID)) {
       continue;
     }
     

@@ -31,7 +31,12 @@ namespace detail {
       const bool gotComp = List::getByName<CompList>(
         pair.first,
         [&registry, &props = pair.second, entity] (auto t) {
-          init(registry.assign<LIST_TYPE(t)>(entity), props);
+          using CompType = LIST_TYPE(t);
+          registry.emplace<CompType>(entity);
+          if constexpr (!std::is_empty_v<CompType>) {
+            auto &comp = registry.get<CompType>(entity);
+            init(comp, props);
+          }
         }
       );
       if (!gotComp) {
@@ -75,7 +80,7 @@ OptionalObject LevelManager<CompList>::load(
   const ECS::Level newLevel
 ) {
   if (currentLevel != ECS::NULL_LEVEL) {
-    registry.reset();
+    registry.clear();
   }
   const OptionalObject meta = detail::load<CompList>(registry, levelPath(newLevel));
   if (meta) {

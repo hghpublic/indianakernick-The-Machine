@@ -41,7 +41,7 @@ void signalChannelToggleSystem(entt::registry &registry, const EntityGrid &grid)
       continue;
     }
     
-    if (!registry.has<PlayerAction>(targetID)) {
+    if (!registry.all_of<PlayerAction>(targetID)) {
       continue;
     }
     

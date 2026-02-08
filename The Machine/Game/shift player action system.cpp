@@ -13,7 +13,7 @@
 void shiftPlayerActionSystem(entt::registry &registry) {
   auto view = registry.view<PlayerAction>();
   for (const entt::entity entity : view) {
-    PlayerAction &action = view.get(entity);
+    PlayerAction &action = std::get<0>(view.get(entity));
     action.prev = action.curr;
   }
 }
