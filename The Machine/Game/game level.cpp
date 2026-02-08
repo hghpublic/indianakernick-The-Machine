@@ -13,7 +13,7 @@
 void GameLevel::init() {
   progress.setFilePath(SDL::getSaveDir("Indi Kernick", "The Machine") + "progress.txt");
   progress.readFile();
-  levels.setPath(SDL::getResDir() + "level ");
+  levels.setPath(SDL::getResDir() + "Resources/Levels/level ");
   nextLevel = progress.getIncompleteLevel();
 }
 

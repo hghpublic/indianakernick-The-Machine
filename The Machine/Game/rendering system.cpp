@@ -104,7 +104,7 @@ QuadWriter &RenderingSystem::getWriter(const WriterID id) const {
 }
 
 TextureID RenderingSystem::addTexture(const std::string_view name) {
-  const G2D::Surface image = G2D::loadSurfaceRGBA(SDL::getResDir() + std::string(name));
+  const G2D::Surface image = G2D::loadSurfaceRGBA(SDL::getResDir() + std::string("Resources/Spritesheets/") + std::string(name));
   const GL::Image2D glImage = {
     image.data(),
     static_cast<GLsizei>(image.width()),

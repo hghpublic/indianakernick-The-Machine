@@ -130,7 +130,7 @@ void MusicPlayer::fillAudioBuffer(uint8_t *const buffer, const int requestedByte
 
 void MusicPlayer::loadMusic() {
   const std::string resDir = SDL::getResDir();
-  std::ifstream musicFile(resDir + "music.json");
+  std::ifstream musicFile(resDir + "Resources/Music/music.json");
   json musicData;
   musicFile >> musicData;
   
@@ -138,7 +138,7 @@ void MusicPlayer::loadMusic() {
     Song song;
     Data::get(song.name, songNode, "name");
     Data::get(song.artist, songNode, "artist");
-    const std::string songFileName = resDir + songNode.at("file").get<std::string>();
+    const std::string songFileName = resDir + std::string("Resources/Music/") + songNode.at("file").get<std::string>();
     
     #ifdef NO_EMSCRIPTEN
     

@@ -19,7 +19,9 @@ void GameView::init(RenderingSystem &rendering, std::shared_ptr<entt::registry> 
   camera.transform.setOrigin(Cam2D::Origin::CENTER);
   
   const TextureID tex = rendering.addTexture("sprites.png");
-  const std::string atlasPath = SDL::getResDir() + "sprites.atlas";
+// FIXME
+//   const std::string atlasPath = SDL::getResDir() + "sprites.atlas";
+  const std::string atlasPath = SDL::getResDir() + "Resources/Spritesheets/sprites.atlas";
   sheet = std::make_shared<Sheet>(Sprite::makeSheetFromFile(atlasPath));
   
   writers.push_back(rendering.addWriter<PowerSpriteWriter>(tex, registry, sheet));
