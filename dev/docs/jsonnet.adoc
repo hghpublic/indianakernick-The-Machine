@@ -1,0 +1,35 @@
+= jsonnet
+
+https://jsonnet.org/
+
+https://github.com/google/jsonnet
+
+----
+❯ jsonnet level\ 0.jsonnet > level\ 0.json
+----
+
+
+----
+for f in level\ *.jsonnet;do echo $f; done
+level 0.jsonnet
+level 10.jsonnet
+level 11.jsonnet
+level 12.jsonnet
+level 13.jsonnet
+level 14.jsonnet
+level 15.jsonnet
+level 16.jsonnet
+level 1.jsonnet
+level 2.jsonnet
+level 3.jsonnet
+level 4.jsonnet
+level 5.jsonnet
+level 6.jsonnet
+level 7.jsonnet
+level 8.jsonnet
+level 9.jsonnet
+----
+
+----
+for f in level\ *.jsonnet;do echo $f; b=$(basename $f .jsonnet); echo $b; jsonnet $f > $b.json; done
+----
