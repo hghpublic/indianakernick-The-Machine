@@ -1,0 +1,881 @@
+{
+   "entities": [
+      {
+         "components": {
+            "Position": [
+               0,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               1,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               2,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               3,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               4,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               5,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               6,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               7,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               8,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               9,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               10,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               11,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               12,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               13,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               14,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               15,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               0,
+               1
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "DynamicCollision": {
+               "pushed_by": 5,
+               "type": 2
+            },
+            "Movement": { },
+            "PlayerAction": { },
+            "Position": [
+               1,
+               1
+            ],
+            "SpritePosition": {
+               "depth": 0.59999999999999998
+            },
+            "StaticSprite": {
+               "sprite": 104,
+               "ticks": 0
+            },
+            "Weight": {
+               "heavy": false
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               15,
+               1
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               0,
+               2
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               15,
+               2
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               0,
+               3
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               15,
+               3
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               0,
+               4
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               15,
+               4
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               0,
+               5
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               15,
+               5
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               0,
+               6
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               15,
+               6
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               0,
+               7
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Exit": { },
+            "Position": [
+               14,
+               7
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 2
+            },
+            "StaticSprite": {
+               "sprite": 73,
+               "ticks": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               15,
+               7
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               0,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               1,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               2,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               3,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               4,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               5,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               6,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               7,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               8,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               9,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               10,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               11,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               12,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               13,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               14,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               15,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      }
+   ],
+   "meta": {
+      "size": [
+         16,
+         9
+      ]
+   }
+}

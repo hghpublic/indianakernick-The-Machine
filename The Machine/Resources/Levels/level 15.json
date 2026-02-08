@@ -1,0 +1,3297 @@
+{
+   "entities": [
+      {
+         "components": {
+            "Position": [
+               0,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               1,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               2,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               3,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               4,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               6,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               7,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               8,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               9,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               10,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               11,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               12,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               13,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               14,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               15,
+               0
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               0,
+               1
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "DynamicCollision": {
+               "pushed_by": 5,
+               "type": 2
+            },
+            "Movement": { },
+            "PlayerAction": { },
+            "Position": [
+               1,
+               1
+            ],
+            "SpritePosition": {
+               "depth": 0.59999999999999998
+            },
+            "StaticSprite": {
+               "sprite": 104,
+               "ticks": 0
+            },
+            "Weight": {
+               "heavy": false
+            }
+         }
+      },
+      {
+         "components": {
+            "Button": { },
+            "Device": { },
+            "Position": [
+               2,
+               1
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": -1,
+                  "start": 21
+               },
+               "high": {
+                  "dir": 0,
+                  "start": 21
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 11
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 11
+               }
+            },
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "DynamicCollision": {
+               "pushed_by": 4294967295,
+               "type": 1
+            },
+            "Movement": { },
+            "Position": [
+               5,
+               1
+            ],
+            "Radioactivity": {
+               "enabled": false
+            },
+            "RadioactivitySprite": {
+               "sprite": 0
+            },
+            "SpritePosition": {
+               "depth": 0.59999999999999998
+            },
+            "Weight": {
+               "heavy": true
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               15,
+               1
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               0,
+               2
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               1,
+               2
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               2,
+               2
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               3,
+               2
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               4,
+               2
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               6,
+               2
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               7,
+               2
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               8,
+               2
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               9,
+               2
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               10,
+               2
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               11,
+               2
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               13,
+               2
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               15,
+               2
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               0,
+               3
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               1,
+               3
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "DynamicCollision": {
+               "pushed_by": 4294967295,
+               "type": 1
+            },
+            "Movement": { },
+            "Position": [
+               4,
+               3
+            ],
+            "Radioactivity": {
+               "enabled": true
+            },
+            "RadioactivitySprite": {
+               "sprite": 0
+            },
+            "SpritePosition": {
+               "depth": 0.59999999999999998
+            },
+            "Weight": {
+               "heavy": true
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               11,
+               3
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               13,
+               3
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               15,
+               3
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               6,
+               4
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               8,
+               4
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               15,
+               4
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "DynamicCollision": {
+               "pushed_by": 4294967295,
+               "type": 1
+            },
+            "Movement": { },
+            "Position": [
+               2,
+               5
+            ],
+            "Radioactivity": {
+               "enabled": false
+            },
+            "RadioactivitySprite": {
+               "sprite": 0
+            },
+            "SpritePosition": {
+               "depth": 0.59999999999999998
+            },
+            "Weight": {
+               "heavy": true
+            }
+         }
+      },
+      {
+         "components": {
+            "DynamicCollision": {
+               "pushed_by": 4294967295,
+               "type": 1
+            },
+            "Movement": { },
+            "Position": [
+               3,
+               5
+            ],
+            "Radioactivity": {
+               "enabled": false
+            },
+            "RadioactivitySprite": {
+               "sprite": 0
+            },
+            "SpritePosition": {
+               "depth": 0.59999999999999998
+            },
+            "Weight": {
+               "heavy": true
+            }
+         }
+      },
+      {
+         "components": {
+            "DynamicCollision": {
+               "pushed_by": 4294967295,
+               "type": 1
+            },
+            "Movement": { },
+            "Position": [
+               6,
+               5
+            ],
+            "Radioactivity": {
+               "enabled": true
+            },
+            "RadioactivitySprite": {
+               "sprite": 0
+            },
+            "SpritePosition": {
+               "depth": 0.59999999999999998
+            },
+            "Weight": {
+               "heavy": true
+            }
+         }
+      },
+      {
+         "components": {
+            "DynamicCollision": {
+               "pushed_by": 4294967295,
+               "type": 1
+            },
+            "Movement": { },
+            "Position": [
+               8,
+               5
+            ],
+            "Radioactivity": {
+               "enabled": true
+            },
+            "RadioactivitySprite": {
+               "sprite": 0
+            },
+            "SpritePosition": {
+               "depth": 0.59999999999999998
+            },
+            "Weight": {
+               "heavy": true
+            }
+         }
+      },
+      {
+         "components": {
+            "DynamicCollision": {
+               "pushed_by": 4294967295,
+               "type": 1
+            },
+            "Movement": { },
+            "Position": [
+               9,
+               5
+            ],
+            "Radioactivity": {
+               "enabled": true
+            },
+            "RadioactivitySprite": {
+               "sprite": 0
+            },
+            "SpritePosition": {
+               "depth": 0.59999999999999998
+            },
+            "Weight": {
+               "heavy": true
+            }
+         }
+      },
+      {
+         "components": {
+            "DynamicCollision": {
+               "pushed_by": 4294967295,
+               "type": 1
+            },
+            "Movement": { },
+            "Position": [
+               10,
+               5
+            ],
+            "Radioactivity": {
+               "enabled": true
+            },
+            "RadioactivitySprite": {
+               "sprite": 0
+            },
+            "SpritePosition": {
+               "depth": 0.59999999999999998
+            },
+            "Weight": {
+               "heavy": true
+            }
+         }
+      },
+      {
+         "components": {
+            "DynamicCollision": {
+               "pushed_by": 4294967295,
+               "type": 1
+            },
+            "Movement": { },
+            "Position": [
+               11,
+               5
+            ],
+            "Radioactivity": {
+               "enabled": true
+            },
+            "RadioactivitySprite": {
+               "sprite": 0
+            },
+            "SpritePosition": {
+               "depth": 0.59999999999999998
+            },
+            "Weight": {
+               "heavy": true
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               13,
+               5
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               15,
+               5
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "DynamicCollision": {
+               "pushed_by": 4294967295,
+               "type": 1
+            },
+            "Movement": { },
+            "Position": [
+               0,
+               6
+            ],
+            "Radioactivity": {
+               "enabled": false
+            },
+            "RadioactivitySprite": {
+               "sprite": 0
+            },
+            "SpritePosition": {
+               "depth": 0.59999999999999998
+            },
+            "Weight": {
+               "heavy": true
+            }
+         }
+      },
+      {
+         "components": {
+            "DynamicCollision": {
+               "pushed_by": 4294967295,
+               "type": 1
+            },
+            "Movement": { },
+            "Position": [
+               7,
+               6
+            ],
+            "Radioactivity": {
+               "enabled": true
+            },
+            "RadioactivitySprite": {
+               "sprite": 0
+            },
+            "SpritePosition": {
+               "depth": 0.59999999999999998
+            },
+            "Weight": {
+               "heavy": true
+            }
+         }
+      },
+      {
+         "components": {
+            "DynamicCollision": {
+               "pushed_by": 4294967295,
+               "type": 1
+            },
+            "Movement": { },
+            "Position": [
+               8,
+               6
+            ],
+            "Radioactivity": {
+               "enabled": true
+            },
+            "RadioactivitySprite": {
+               "sprite": 0
+            },
+            "SpritePosition": {
+               "depth": 0.59999999999999998
+            },
+            "Weight": {
+               "heavy": true
+            }
+         }
+      },
+      {
+         "components": {
+            "DynamicCollision": {
+               "pushed_by": 4294967295,
+               "type": 1
+            },
+            "Movement": { },
+            "Position": [
+               9,
+               6
+            ],
+            "Radioactivity": {
+               "enabled": false
+            },
+            "RadioactivitySprite": {
+               "sprite": 0
+            },
+            "SpritePosition": {
+               "depth": 0.59999999999999998
+            },
+            "Weight": {
+               "heavy": true
+            }
+         }
+      },
+      {
+         "components": {
+            "DynamicCollision": {
+               "pushed_by": 4294967295,
+               "type": 1
+            },
+            "Movement": { },
+            "Position": [
+               10,
+               6
+            ],
+            "Radioactivity": {
+               "enabled": true
+            },
+            "RadioactivitySprite": {
+               "sprite": 0
+            },
+            "SpritePosition": {
+               "depth": 0.59999999999999998
+            },
+            "Weight": {
+               "heavy": true
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               13,
+               6
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               15,
+               6
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               0,
+               7
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               1,
+               7
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               2,
+               7
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               8,
+               7
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               10,
+               7
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               12,
+               7
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               13,
+               7
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Exit": { },
+            "Position": [
+               14,
+               7
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 2
+            },
+            "StaticSprite": {
+               "sprite": 73,
+               "ticks": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               15,
+               7
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               0,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               1,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               2,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               4,
+               8
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": -1,
+                  "start": 115
+               },
+               "high": {
+                  "dir": 0,
+                  "start": 115
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 105
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 105
+               }
+            },
+            "PressurePlate": {
+               "heavy": true
+            },
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 4294967295
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               5,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               6,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               7,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               8,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               13,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               14,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Position": [
+               15,
+               8
+            ],
+            "SpritePosition": {
+               "depth": 0.80000000000000004
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 309,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               3,
+               1
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": 0,
+                  "start": 229
+               },
+               "high": {
+                  "dir": 1,
+                  "start": 229
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 229
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 229
+               }
+            },
+            "SignalChannel": {
+               "channel": 0
+            },
+            "SignalTransmitter": { },
+            "SpritePosition": {
+               "depth": 0.40000000000000002
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "DynamicCollision": {
+               "pushed_by": 0,
+               "type": 4
+            },
+            "Movement": { },
+            "Piston": {
+               "base_pos": [
+                  5,
+                  2
+               ],
+               "dir": 2
+            },
+            "Position": [
+               5,
+               2
+            ],
+            "SpritePosition": {
+               "depth": 0.59999999999999998,
+               "dir": 2
+            },
+            "StaticSprite": {
+               "sprite": 103,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               5,
+               2
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 11
+            },
+            "SpritePosition": {
+               "depth": 0.20000000000000001,
+               "dir": 2
+            },
+            "StaticCollision": {
+               "accepts": 4
+            },
+            "StaticSprite": {
+               "sprite": 102,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "DynamicCollision": {
+               "pushed_by": 0,
+               "type": 4
+            },
+            "Movement": { },
+            "Piston": {
+               "base_pos": [
+                  12,
+                  2
+               ],
+               "dir": 2
+            },
+            "Position": [
+               12,
+               2
+            ],
+            "SpritePosition": {
+               "depth": 0.59999999999999998,
+               "dir": 2
+            },
+            "StaticSprite": {
+               "sprite": 103,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               12,
+               2
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 11
+            },
+            "SpritePosition": {
+               "depth": 0.20000000000000001,
+               "dir": 2
+            },
+            "StaticCollision": {
+               "accepts": 4
+            },
+            "StaticSprite": {
+               "sprite": 102,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               2,
+               3
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": 0,
+                  "start": 179
+               },
+               "high": {
+                  "dir": 1,
+                  "start": 179
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 179
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 179
+               }
+            },
+            "SignalChannel": {
+               "channel": 3
+            },
+            "SignalReceiver": { },
+            "SpritePosition": {
+               "depth": 0.40000000000000002
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               3,
+               3
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 8
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": -1,
+                  "start": 137
+               },
+               "high": {
+                  "dir": 0,
+                  "start": 137
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 127
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 127
+               }
+            },
+            "RadioactiveToggle": {
+               "side": 1
+            },
+            "SpritePosition": {
+               "depth": 0.80000000000000004,
+               "dir": 1
+            },
+            "StaticCollision": {
+               "accepts": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               5,
+               3
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": 0,
+                  "start": 149
+               },
+               "high": {
+                  "dir": 1,
+                  "start": 149
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 149
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 149
+               }
+            },
+            "SignalChannel": {
+               "channel": 0
+            },
+            "SignalReceiver": { },
+            "SpritePosition": {
+               "depth": 0.40000000000000002
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               6,
+               3
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": 0,
+                  "start": 209
+               },
+               "high": {
+                  "dir": 1,
+                  "start": 209
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 209
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 209
+               }
+            },
+            "SignalChannel": {
+               "channel": 6
+            },
+            "SignalReceiver": { },
+            "SpritePosition": {
+               "depth": 0.40000000000000002
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Gate": {
+               "fun": 0
+            },
+            "Position": [
+               7,
+               3
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 10
+            },
+            "PowerOutput": {
+               "sides": 5
+            },
+            "SpritePosition": {
+               "depth": 0.80000000000000004,
+               "dir": 0
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 83,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               8,
+               3
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": 0,
+                  "start": 169
+               },
+               "high": {
+                  "dir": 1,
+                  "start": 169
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 169
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 169
+               }
+            },
+            "SignalChannel": {
+               "channel": 2
+            },
+            "SignalReceiver": { },
+            "SpritePosition": {
+               "depth": 0.40000000000000002
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               10,
+               3
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": 0,
+                  "start": 299
+               },
+               "high": {
+                  "dir": 1,
+                  "start": 299
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 299
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 299
+               }
+            },
+            "SignalChannel": {
+               "channel": 7
+            },
+            "SignalTransmitter": { },
+            "SpritePosition": {
+               "depth": 0.40000000000000002
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               12,
+               3
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": 0,
+                  "start": 219
+               },
+               "high": {
+                  "dir": 1,
+                  "start": 219
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 219
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 219
+               }
+            },
+            "SignalChannel": {
+               "channel": 7
+            },
+            "SignalReceiver": { },
+            "SpritePosition": {
+               "depth": 0.40000000000000002
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               0,
+               4
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": 0,
+                  "start": 159
+               },
+               "high": {
+                  "dir": 1,
+                  "start": 159
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 159
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 159
+               }
+            },
+            "SignalChannel": {
+               "channel": 1
+            },
+            "SignalReceiver": { },
+            "SpritePosition": {
+               "depth": 0.40000000000000002
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               1,
+               4
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": 0,
+                  "start": 169
+               },
+               "high": {
+                  "dir": 1,
+                  "start": 169
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 169
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 169
+               }
+            },
+            "SignalChannel": {
+               "channel": 2
+            },
+            "SignalReceiver": { },
+            "SpritePosition": {
+               "depth": 0.40000000000000002
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               2,
+               4
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": 0,
+                  "start": 189
+               },
+               "high": {
+                  "dir": 1,
+                  "start": 189
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 189
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 189
+               }
+            },
+            "SignalChannel": {
+               "channel": 4
+            },
+            "SignalReceiver": { },
+            "SpritePosition": {
+               "depth": 0.40000000000000002
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "DynamicCollision": {
+               "pushed_by": 0,
+               "type": 4
+            },
+            "Movement": { },
+            "Piston": {
+               "base_pos": [
+                  3,
+                  4
+               ],
+               "dir": 0
+            },
+            "Position": [
+               3,
+               4
+            ],
+            "SpritePosition": {
+               "depth": 0.59999999999999998,
+               "dir": 0
+            },
+            "StaticSprite": {
+               "sprite": 103,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               3,
+               4
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 14
+            },
+            "SpritePosition": {
+               "depth": 0.20000000000000001,
+               "dir": 0
+            },
+            "StaticCollision": {
+               "accepts": 4
+            },
+            "StaticSprite": {
+               "sprite": 102,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               4,
+               4
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 1
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": -1,
+                  "start": 148
+               },
+               "high": {
+                  "dir": 0,
+                  "start": 148
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 138
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 138
+               }
+            },
+            "RadioactivityDetector": {
+               "side": 2
+            },
+            "SpritePosition": {
+               "depth": 0.80000000000000004,
+               "dir": 2
+            },
+            "StaticCollision": {
+               "accepts": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               5,
+               4
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": 0,
+                  "start": 199
+               },
+               "high": {
+                  "dir": 1,
+                  "start": 199
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 199
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 199
+               }
+            },
+            "SignalChannel": {
+               "channel": 5
+            },
+            "SignalReceiver": { },
+            "SpritePosition": {
+               "depth": 0.40000000000000002
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "DynamicCollision": {
+               "pushed_by": 0,
+               "type": 4
+            },
+            "Movement": { },
+            "Piston": {
+               "base_pos": [
+                  7,
+                  4
+               ],
+               "dir": 0
+            },
+            "Position": [
+               7,
+               4
+            ],
+            "SpritePosition": {
+               "depth": 0.59999999999999998,
+               "dir": 0
+            },
+            "StaticSprite": {
+               "sprite": 103,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               7,
+               4
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 14
+            },
+            "SpritePosition": {
+               "depth": 0.20000000000000001,
+               "dir": 0
+            },
+            "StaticCollision": {
+               "accepts": 4
+            },
+            "StaticSprite": {
+               "sprite": 102,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               10,
+               4
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 4
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": -1,
+                  "start": 148
+               },
+               "high": {
+                  "dir": 0,
+                  "start": 148
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 138
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 138
+               }
+            },
+            "RadioactivityDetector": {
+               "side": 0
+            },
+            "SpritePosition": {
+               "depth": 0.80000000000000004,
+               "dir": 0
+            },
+            "StaticCollision": {
+               "accepts": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               11,
+               4
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": 0,
+                  "start": 179
+               },
+               "high": {
+                  "dir": 1,
+                  "start": 179
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 179
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 179
+               }
+            },
+            "SignalChannel": {
+               "channel": 3
+            },
+            "SignalReceiver": { },
+            "SpritePosition": {
+               "depth": 0.40000000000000002
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Gate": {
+               "fun": 0
+            },
+            "Position": [
+               12,
+               4
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 10
+            },
+            "PowerOutput": {
+               "sides": 5
+            },
+            "SpritePosition": {
+               "depth": 0.80000000000000004,
+               "dir": 0
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 83,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               13,
+               4
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": 0,
+                  "start": 209
+               },
+               "high": {
+                  "dir": 1,
+                  "start": 209
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 209
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 209
+               }
+            },
+            "SignalChannel": {
+               "channel": 6
+            },
+            "SignalReceiver": { },
+            "SpritePosition": {
+               "depth": 0.40000000000000002
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               0,
+               5
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 4
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": -1,
+                  "start": 137
+               },
+               "high": {
+                  "dir": 0,
+                  "start": 137
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 127
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 127
+               }
+            },
+            "RadioactiveToggle": {
+               "side": 0
+            },
+            "SpritePosition": {
+               "depth": 0.80000000000000004,
+               "dir": 0
+            },
+            "StaticCollision": {
+               "accepts": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "DynamicCollision": {
+               "pushed_by": 0,
+               "type": 4
+            },
+            "Movement": { },
+            "Piston": {
+               "base_pos": [
+                  1,
+                  5
+               ],
+               "dir": 1
+            },
+            "Position": [
+               1,
+               5
+            ],
+            "SpritePosition": {
+               "depth": 0.59999999999999998,
+               "dir": 1
+            },
+            "StaticSprite": {
+               "sprite": 103,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               1,
+               5
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 13
+            },
+            "SpritePosition": {
+               "depth": 0.20000000000000001,
+               "dir": 1
+            },
+            "StaticCollision": {
+               "accepts": 4
+            },
+            "StaticSprite": {
+               "sprite": 102,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "DynamicCollision": {
+               "pushed_by": 0,
+               "type": 4
+            },
+            "Movement": { },
+            "Piston": {
+               "base_pos": [
+                  4,
+                  5
+               ],
+               "dir": 0
+            },
+            "Position": [
+               4,
+               5
+            ],
+            "SpritePosition": {
+               "depth": 0.59999999999999998,
+               "dir": 0
+            },
+            "StaticSprite": {
+               "sprite": 103,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               4,
+               5
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 14
+            },
+            "SpritePosition": {
+               "depth": 0.20000000000000001,
+               "dir": 0
+            },
+            "StaticCollision": {
+               "accepts": 4
+            },
+            "StaticSprite": {
+               "sprite": 102,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "DynamicCollision": {
+               "pushed_by": 0,
+               "type": 4
+            },
+            "Movement": { },
+            "Piston": {
+               "base_pos": [
+                  5,
+                  5
+               ],
+               "dir": 1
+            },
+            "Position": [
+               5,
+               5
+            ],
+            "SpritePosition": {
+               "depth": 0.59999999999999998,
+               "dir": 1
+            },
+            "StaticSprite": {
+               "sprite": 103,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               5,
+               5
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 13
+            },
+            "SpritePosition": {
+               "depth": 0.20000000000000001,
+               "dir": 1
+            },
+            "StaticCollision": {
+               "accepts": 4
+            },
+            "StaticSprite": {
+               "sprite": 102,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "DynamicCollision": {
+               "pushed_by": 0,
+               "type": 4
+            },
+            "Movement": { },
+            "Piston": {
+               "base_pos": [
+                  12,
+                  5
+               ],
+               "dir": 3
+            },
+            "Position": [
+               12,
+               5
+            ],
+            "SpritePosition": {
+               "depth": 0.59999999999999998,
+               "dir": 3
+            },
+            "StaticSprite": {
+               "sprite": 103,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               12,
+               5
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 7
+            },
+            "SpritePosition": {
+               "depth": 0.20000000000000001,
+               "dir": 3
+            },
+            "StaticCollision": {
+               "accepts": 4
+            },
+            "StaticSprite": {
+               "sprite": 102,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               1,
+               6
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 2
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": -1,
+                  "start": 148
+               },
+               "high": {
+                  "dir": 0,
+                  "start": 148
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 138
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 138
+               }
+            },
+            "RadioactivityDetector": {
+               "side": 3
+            },
+            "SpritePosition": {
+               "depth": 0.80000000000000004,
+               "dir": 3
+            },
+            "StaticCollision": {
+               "accepts": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "DynamicCollision": {
+               "pushed_by": 0,
+               "type": 4
+            },
+            "Movement": { },
+            "Piston": {
+               "base_pos": [
+                  2,
+                  6
+               ],
+               "dir": 1
+            },
+            "Position": [
+               2,
+               6
+            ],
+            "SpritePosition": {
+               "depth": 0.59999999999999998,
+               "dir": 1
+            },
+            "StaticSprite": {
+               "sprite": 103,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               2,
+               6
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 13
+            },
+            "SpritePosition": {
+               "depth": 0.20000000000000001,
+               "dir": 1
+            },
+            "StaticCollision": {
+               "accepts": 4
+            },
+            "StaticSprite": {
+               "sprite": 102,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "DynamicCollision": {
+               "pushed_by": 0,
+               "type": 4
+            },
+            "Movement": { },
+            "Piston": {
+               "base_pos": [
+                  6,
+                  6
+               ],
+               "dir": 1
+            },
+            "Position": [
+               6,
+               6
+            ],
+            "SpritePosition": {
+               "depth": 0.59999999999999998,
+               "dir": 1
+            },
+            "StaticSprite": {
+               "sprite": 103,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               6,
+               6
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 13
+            },
+            "SpritePosition": {
+               "depth": 0.20000000000000001,
+               "dir": 1
+            },
+            "StaticCollision": {
+               "accepts": 4
+            },
+            "StaticSprite": {
+               "sprite": 102,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               5,
+               7
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": 0,
+                  "start": 209
+               },
+               "high": {
+                  "dir": 1,
+                  "start": 209
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 209
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 209
+               }
+            },
+            "SignalChannel": {
+               "channel": 6
+            },
+            "SignalReceiver": { },
+            "SpritePosition": {
+               "depth": 0.40000000000000002
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Gate": {
+               "fun": 0
+            },
+            "Position": [
+               6,
+               7
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 10
+            },
+            "PowerOutput": {
+               "sides": 5
+            },
+            "SpritePosition": {
+               "depth": 0.80000000000000004,
+               "dir": 0
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 83,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               7,
+               7
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": 0,
+                  "start": 159
+               },
+               "high": {
+                  "dir": 1,
+                  "start": 159
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 159
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 159
+               }
+            },
+            "SignalChannel": {
+               "channel": 1
+            },
+            "SignalReceiver": { },
+            "SpritePosition": {
+               "depth": 0.40000000000000002
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "DynamicCollision": {
+               "pushed_by": 0,
+               "type": 4
+            },
+            "Movement": { },
+            "Piston": {
+               "base_pos": [
+                  9,
+                  7
+               ],
+               "dir": 2
+            },
+            "Position": [
+               9,
+               7
+            ],
+            "SpritePosition": {
+               "depth": 0.59999999999999998,
+               "dir": 2
+            },
+            "StaticSprite": {
+               "sprite": 103,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               9,
+               7
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 11
+            },
+            "SpritePosition": {
+               "depth": 0.20000000000000001,
+               "dir": 2
+            },
+            "StaticCollision": {
+               "accepts": 4
+            },
+            "StaticSprite": {
+               "sprite": 102,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "DynamicCollision": {
+               "pushed_by": 0,
+               "type": 4
+            },
+            "Movement": { },
+            "Piston": {
+               "base_pos": [
+                  11,
+                  7
+               ],
+               "dir": 2
+            },
+            "Position": [
+               11,
+               7
+            ],
+            "SpritePosition": {
+               "depth": 0.59999999999999998,
+               "dir": 2
+            },
+            "StaticSprite": {
+               "sprite": 103,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               11,
+               7
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 11
+            },
+            "SpritePosition": {
+               "depth": 0.20000000000000001,
+               "dir": 2
+            },
+            "StaticCollision": {
+               "accepts": 4
+            },
+            "StaticSprite": {
+               "sprite": 102,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               3,
+               8
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": 0,
+                  "start": 289
+               },
+               "high": {
+                  "dir": 1,
+                  "start": 289
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 289
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 289
+               }
+            },
+            "SignalChannel": {
+               "channel": 6
+            },
+            "SignalTransmitter": { },
+            "SpritePosition": {
+               "depth": 0.40000000000000002
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               9,
+               8
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": 0,
+                  "start": 199
+               },
+               "high": {
+                  "dir": 1,
+                  "start": 199
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 199
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 199
+               }
+            },
+            "SignalChannel": {
+               "channel": 5
+            },
+            "SignalReceiver": { },
+            "SpritePosition": {
+               "depth": 0.40000000000000002
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               10,
+               8
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": 0,
+                  "start": 209
+               },
+               "high": {
+                  "dir": 1,
+                  "start": 209
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 209
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 209
+               }
+            },
+            "SignalChannel": {
+               "channel": 6
+            },
+            "SignalReceiver": { },
+            "SpritePosition": {
+               "depth": 0.40000000000000002
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      },
+      {
+         "components": {
+            "Gate": {
+               "fun": 0
+            },
+            "Position": [
+               11,
+               8
+            ],
+            "Power": { },
+            "PowerInput": {
+               "sides": 10
+            },
+            "PowerOutput": {
+               "sides": 5
+            },
+            "SpritePosition": {
+               "depth": 0.80000000000000004,
+               "dir": 0
+            },
+            "StaticCollision": {
+               "accepts": 0
+            },
+            "StaticSprite": {
+               "sprite": 83,
+               "ticks": 0
+            }
+         }
+      },
+      {
+         "components": {
+            "Device": { },
+            "Position": [
+               12,
+               8
+            ],
+            "Power": { },
+            "PowerOutput": {
+               "sides": 15
+            },
+            "PowerSprite": {
+               "fall": {
+                  "dir": 0,
+                  "start": 149
+               },
+               "high": {
+                  "dir": 1,
+                  "start": 149
+               },
+               "low": {
+                  "dir": 0,
+                  "start": 149
+               },
+               "rise": {
+                  "dir": 1,
+                  "start": 149
+               }
+            },
+            "SignalChannel": {
+               "channel": 0
+            },
+            "SignalReceiver": { },
+            "SpritePosition": {
+               "depth": 0.40000000000000002
+            },
+            "StaticCollision": {
+               "accepts": 2
+            }
+         }
+      }
+   ],
+   "meta": {
+      "size": [
+         16,
+         9
+      ]
+   }
+}
