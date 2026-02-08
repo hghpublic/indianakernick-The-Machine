@@ -1,0 +1,23 @@
+= The Machine
+
+== The Machine
+
+https://indiana-kernick.itch.io/
+
+https://indiana-kernick.itch.io/the-machine-web-version
+
+https://github.com/indianakernick/The-Machine
+
+https://github.com/hghpublic/indianakernick-The-Machine
+
+== Simpleton
+
+https://github.com/indianakernick/Simpleton-Engine
+
+https://github.com/hghpublic/indianakernick-Simpleton-Engine
+
+== Jsonnet
+
+https://jsonnet.org/
+
+https://github.com/google/jsonnet
